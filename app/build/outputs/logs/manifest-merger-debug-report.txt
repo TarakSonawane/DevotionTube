@@ -1,0 +1,730 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\Tarak\.gradle\caches\transforms-3\469d1374e5ed4a974d6850a810e4546c\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:2:1-109:12
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\Tarak\.gradle\caches\transforms-3\32e715371ff8ddadc3f187b22513212b\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tarak\.gradle\caches\transforms-3\9fd20e6bd38878c714c66ba99e5836d3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\4dd200b6cbe68f509671f28b12a9ca33\transformed\jetified-core-11.1.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\aa57b41db9e7b10a92add64552974e35\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\Tarak\.gradle\caches\transforms-3\e42dabb572c48012411650c309918f3f\transformed\jetified-library-1.6.1\AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\9c96a915f2ecc53e4aa4200b12dc6ae9\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Tarak\.gradle\caches\transforms-3\24a70e10510b7ffb70b10c1bb5c2904c\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:2:1-25:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\a094b2c3a4f5bc787d467a35bb857f60\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Tarak\.gradle\caches\transforms-3\37ae7289cbf446d8c880051863801b8a\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\af68eb6bd05826841baff77f027accee\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\52442b25f16a3334d9eefdef032e70e4\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\683566cea1e5185e78d0b6c48237ac22\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\8ba9f4e418f938dbefcffc412303be0e\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Tarak\.gradle\caches\transforms-3\e7ee649cf6a4b94987e51f07d1e5f0f8\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\0d46a21ab9f3429048379b3236af0d98\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\50148e89ffa7f31ec1b5abfa2d279772\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\a45a168026ddeaccac63300b40abfec7\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tarak\.gradle\caches\transforms-3\e8491fc76613d67b5eef001283f2b4a8\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\fb08bf9200be5fbb13e0d0b74e7f640f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\8d924a7570df610e29b2b9b7feaeb14d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4eeaed30e2791f61df3f1fb22bdeef3e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Tarak\.gradle\caches\transforms-3\ab6d889a28c3024a39b9cb73b8d9a46c\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b0442ec2d56f9e8efa81da758a3e6f01\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4b0a009850d4420818cc8b0eb7b2aba3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\88c686958d81d3620cf1c08d7c0d22e5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\413954f2bbc4ab1911aec8533c4af063\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\1d2c582b7133b12343a95fb69d6b046d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b33c7ebe4042e3936b2044a2f80a35a7\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\58daeb0b1e930b514f14d2676321509c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\eca122b6a4cb0ddc62714171b8e0326a\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\7522c2b103fda1c94634dceeab7661a5\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\66a1ff2a5d85d65d4e58f37e37c870a1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\13a2e32e5cae0f9c90b52ec0552ba6fd\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\b723916e876d67e1d3560d2d2bf6803d\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\555f373f1a2cb3f2b9f451f64d7d9aeb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\487191a27b7b53fafe1e466a34471ee7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tarak\.gradle\caches\transforms-3\b75e3e34178e185091046a12d4ccc5de\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Tarak\.gradle\caches\transforms-3\266c0375e92e7177e861d7a460643bd1\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\27e88ef8c036460c16f8c90c9abd2692\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\98b28c06da18dbdfa8248ca623dd622d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\923f81548c87f26c50548822041cd24f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\e021664a883dd9016836fcdf01f0431e\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\206ffc38e8500fb2dbc304d661e6d038\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4eca70bb7353e38f63f9bc633a891033\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\866eeb13b051b72fd350c4a2849466c5\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\3f892fa3f128b97afb5e21fab99539bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\Tarak\.gradle\caches\transforms-3\497d3103cd1b334fd0b2a91c3274e19b\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\bc012e3e119f9efd6b11003a9fd27aec\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\d059dddfc3c8af1bc4e23f67b4c5d429\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\b0041d287bd2a705c14612f8ee48862a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\8cc68b58a43c51875666d64605295554\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\990f0c75472b95947a6fd3cdc254a142\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\ef95d434c2a00b31a637851e42605ca6\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\518ef9a60ae516d059b753a0f0aa35a2\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\9e866fc80d8deda374a22b6b55dc529c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\79ce8ad88ebdc9ba5901c12a1376a15c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\638a6c2a0b703dcec49df6817666db81\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\d8f81e85253cb038fb4a1fd6129aa97c\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b62673ece755617109cc25e870d08a69\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\84cebe6fe92a1ecef2da6c858369baeb\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\0b59976ca61fec2f91d38b2cc7eae02d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\19b19b0f800f2866e3363c111884b8de\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\f9ca61b601f4ff5efbd60ecae6f07e87\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\e70a6d5c4b91ac662d041a7d51a890e4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\136796e336dcf8656484a61de8bdbd18\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:13:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\4dd200b6cbe68f509671f28b12a9ca33\transformed\jetified-core-11.1.0\AndroidManifest.xml:9:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\4dd200b6cbe68f509671f28b12a9ca33\transformed\jetified-core-11.1.0\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:12:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:12:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\4dd200b6cbe68f509671f28b12a9ca33\transformed\jetified-core-11.1.0\AndroidManifest.xml:10:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\4dd200b6cbe68f509671f28b12a9ca33\transformed\jetified-core-11.1.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:12:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Tarak\.gradle\caches\transforms-3\37ae7289cbf446d8c880051863801b8a\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Tarak\.gradle\caches\transforms-3\37ae7289cbf446d8c880051863801b8a\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:6:22-76
+queries
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:8:5-12:15
+intent#action:name:com.google.android.youtube.api.service.START
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:9:9-11:18
+action#com.google.android.youtube.api.service.START
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:10:13-83
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:10:21-80
+application
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:14:5-75:19
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:15:5-107:19
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:15:5-107:19
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\Tarak\.gradle\caches\transforms-3\32e715371ff8ddadc3f187b22513212b\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\Tarak\.gradle\caches\transforms-3\32e715371ff8ddadc3f187b22513212b\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tarak\.gradle\caches\transforms-3\9fd20e6bd38878c714c66ba99e5836d3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tarak\.gradle\caches\transforms-3\9fd20e6bd38878c714c66ba99e5836d3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:15:5-23:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\a094b2c3a4f5bc787d467a35bb857f60\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\a094b2c3a4f5bc787d467a35bb857f60\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\af68eb6bd05826841baff77f027accee\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\af68eb6bd05826841baff77f027accee\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\52442b25f16a3334d9eefdef032e70e4\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\52442b25f16a3334d9eefdef032e70e4\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\0d46a21ab9f3429048379b3236af0d98\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\0d46a21ab9f3429048379b3236af0d98\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\50148e89ffa7f31ec1b5abfa2d279772\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\50148e89ffa7f31ec1b5abfa2d279772\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tarak\.gradle\caches\transforms-3\e8491fc76613d67b5eef001283f2b4a8\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tarak\.gradle\caches\transforms-3\e8491fc76613d67b5eef001283f2b4a8\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\fb08bf9200be5fbb13e0d0b74e7f640f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\fb08bf9200be5fbb13e0d0b74e7f640f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\8d924a7570df610e29b2b9b7feaeb14d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\8d924a7570df610e29b2b9b7feaeb14d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\866eeb13b051b72fd350c4a2849466c5\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\866eeb13b051b72fd350c4a2849466c5\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\9e866fc80d8deda374a22b6b55dc529c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\9e866fc80d8deda374a22b6b55dc529c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\638a6c2a0b703dcec49df6817666db81\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\638a6c2a0b703dcec49df6817666db81\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\866eeb13b051b72fd350c4a2849466c5\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:19:9-37
+	android:fullBackupContent
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:17:9-54
+	android:roundIcon
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:20:9-54
+	tools:targetApi
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:23:9-29
+	android:icon
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:22:9-48
+	android:dataExtractionRules
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:16:9-65
+activity#com.example.internship.YoutubeActivity
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:26:13-44
+meta-data#android.app.lib_name
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:29:13-31:36
+	android:value
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:31:17-33
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:30:17-52
+activity#com.example.internship.HomeActivity
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:exported
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:36:13-72
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.example.internship.YoutubePlayerActivity
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:exported
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:45:13-106
+	android:theme
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:46:13-72
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:43:13-50
+activity#com.example.internship.Login
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:52:9-59:20
+	android:exported
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:54:13-37
+	android:theme
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:55:13-72
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:53:13-34
+activity#com.example.internship.SplashActivity
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:60:9-73:20
+	android:exported
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:62:13-36
+	android:theme
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:63:13-72
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:61:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:64:13-68:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:65:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:67:17-77
+	android:name
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml:67:27-74
+uses-sdk
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\Tarak\.gradle\caches\transforms-3\469d1374e5ed4a974d6850a810e4546c\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\Tarak\.gradle\caches\transforms-3\469d1374e5ed4a974d6850a810e4546c\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\Tarak\.gradle\caches\transforms-3\32e715371ff8ddadc3f187b22513212b\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\Tarak\.gradle\caches\transforms-3\32e715371ff8ddadc3f187b22513212b\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tarak\.gradle\caches\transforms-3\9fd20e6bd38878c714c66ba99e5836d3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tarak\.gradle\caches\transforms-3\9fd20e6bd38878c714c66ba99e5836d3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\4dd200b6cbe68f509671f28b12a9ca33\transformed\jetified-core-11.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\4dd200b6cbe68f509671f28b12a9ca33\transformed\jetified-core-11.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\aa57b41db9e7b10a92add64552974e35\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\aa57b41db9e7b10a92add64552974e35\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\Tarak\.gradle\caches\transforms-3\e42dabb572c48012411650c309918f3f\transformed\jetified-library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\Tarak\.gradle\caches\transforms-3\e42dabb572c48012411650c309918f3f\transformed\jetified-library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\9c96a915f2ecc53e4aa4200b12dc6ae9\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\9c96a915f2ecc53e4aa4200b12dc6ae9\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Tarak\.gradle\caches\transforms-3\24a70e10510b7ffb70b10c1bb5c2904c\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Tarak\.gradle\caches\transforms-3\24a70e10510b7ffb70b10c1bb5c2904c\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\a094b2c3a4f5bc787d467a35bb857f60\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\a094b2c3a4f5bc787d467a35bb857f60\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Tarak\.gradle\caches\transforms-3\37ae7289cbf446d8c880051863801b8a\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Tarak\.gradle\caches\transforms-3\37ae7289cbf446d8c880051863801b8a\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\af68eb6bd05826841baff77f027accee\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\af68eb6bd05826841baff77f027accee\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\52442b25f16a3334d9eefdef032e70e4\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\52442b25f16a3334d9eefdef032e70e4\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\683566cea1e5185e78d0b6c48237ac22\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\683566cea1e5185e78d0b6c48237ac22\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\8ba9f4e418f938dbefcffc412303be0e\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\8ba9f4e418f938dbefcffc412303be0e\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Tarak\.gradle\caches\transforms-3\e7ee649cf6a4b94987e51f07d1e5f0f8\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Tarak\.gradle\caches\transforms-3\e7ee649cf6a4b94987e51f07d1e5f0f8\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\0d46a21ab9f3429048379b3236af0d98\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\0d46a21ab9f3429048379b3236af0d98\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\50148e89ffa7f31ec1b5abfa2d279772\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\50148e89ffa7f31ec1b5abfa2d279772\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\a45a168026ddeaccac63300b40abfec7\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\a45a168026ddeaccac63300b40abfec7\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tarak\.gradle\caches\transforms-3\e8491fc76613d67b5eef001283f2b4a8\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tarak\.gradle\caches\transforms-3\e8491fc76613d67b5eef001283f2b4a8\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\fb08bf9200be5fbb13e0d0b74e7f640f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\fb08bf9200be5fbb13e0d0b74e7f640f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\8d924a7570df610e29b2b9b7feaeb14d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\8d924a7570df610e29b2b9b7feaeb14d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4eeaed30e2791f61df3f1fb22bdeef3e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4eeaed30e2791f61df3f1fb22bdeef3e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Tarak\.gradle\caches\transforms-3\ab6d889a28c3024a39b9cb73b8d9a46c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Tarak\.gradle\caches\transforms-3\ab6d889a28c3024a39b9cb73b8d9a46c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b0442ec2d56f9e8efa81da758a3e6f01\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b0442ec2d56f9e8efa81da758a3e6f01\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4b0a009850d4420818cc8b0eb7b2aba3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4b0a009850d4420818cc8b0eb7b2aba3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\88c686958d81d3620cf1c08d7c0d22e5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\88c686958d81d3620cf1c08d7c0d22e5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\413954f2bbc4ab1911aec8533c4af063\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\413954f2bbc4ab1911aec8533c4af063\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\1d2c582b7133b12343a95fb69d6b046d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\1d2c582b7133b12343a95fb69d6b046d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b33c7ebe4042e3936b2044a2f80a35a7\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b33c7ebe4042e3936b2044a2f80a35a7\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\58daeb0b1e930b514f14d2676321509c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\58daeb0b1e930b514f14d2676321509c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\eca122b6a4cb0ddc62714171b8e0326a\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\eca122b6a4cb0ddc62714171b8e0326a\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\7522c2b103fda1c94634dceeab7661a5\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\7522c2b103fda1c94634dceeab7661a5\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\66a1ff2a5d85d65d4e58f37e37c870a1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\66a1ff2a5d85d65d4e58f37e37c870a1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\13a2e32e5cae0f9c90b52ec0552ba6fd\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\13a2e32e5cae0f9c90b52ec0552ba6fd\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\b723916e876d67e1d3560d2d2bf6803d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\b723916e876d67e1d3560d2d2bf6803d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\555f373f1a2cb3f2b9f451f64d7d9aeb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\555f373f1a2cb3f2b9f451f64d7d9aeb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\487191a27b7b53fafe1e466a34471ee7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\487191a27b7b53fafe1e466a34471ee7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tarak\.gradle\caches\transforms-3\b75e3e34178e185091046a12d4ccc5de\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tarak\.gradle\caches\transforms-3\b75e3e34178e185091046a12d4ccc5de\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Tarak\.gradle\caches\transforms-3\266c0375e92e7177e861d7a460643bd1\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Tarak\.gradle\caches\transforms-3\266c0375e92e7177e861d7a460643bd1\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\27e88ef8c036460c16f8c90c9abd2692\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\27e88ef8c036460c16f8c90c9abd2692\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\98b28c06da18dbdfa8248ca623dd622d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\98b28c06da18dbdfa8248ca623dd622d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\923f81548c87f26c50548822041cd24f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\923f81548c87f26c50548822041cd24f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\e021664a883dd9016836fcdf01f0431e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\e021664a883dd9016836fcdf01f0431e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\206ffc38e8500fb2dbc304d661e6d038\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\206ffc38e8500fb2dbc304d661e6d038\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4eca70bb7353e38f63f9bc633a891033\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\4eca70bb7353e38f63f9bc633a891033\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\866eeb13b051b72fd350c4a2849466c5\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Tarak\.gradle\caches\transforms-3\866eeb13b051b72fd350c4a2849466c5\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\3f892fa3f128b97afb5e21fab99539bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\3f892fa3f128b97afb5e21fab99539bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\Tarak\.gradle\caches\transforms-3\497d3103cd1b334fd0b2a91c3274e19b\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\Tarak\.gradle\caches\transforms-3\497d3103cd1b334fd0b2a91c3274e19b\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\bc012e3e119f9efd6b11003a9fd27aec\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\bc012e3e119f9efd6b11003a9fd27aec\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\d059dddfc3c8af1bc4e23f67b4c5d429\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\d059dddfc3c8af1bc4e23f67b4c5d429\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\b0041d287bd2a705c14612f8ee48862a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\b0041d287bd2a705c14612f8ee48862a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\8cc68b58a43c51875666d64605295554\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\8cc68b58a43c51875666d64605295554\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\990f0c75472b95947a6fd3cdc254a142\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\990f0c75472b95947a6fd3cdc254a142\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\ef95d434c2a00b31a637851e42605ca6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\ef95d434c2a00b31a637851e42605ca6\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\518ef9a60ae516d059b753a0f0aa35a2\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\518ef9a60ae516d059b753a0f0aa35a2\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\9e866fc80d8deda374a22b6b55dc529c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\9e866fc80d8deda374a22b6b55dc529c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\79ce8ad88ebdc9ba5901c12a1376a15c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\79ce8ad88ebdc9ba5901c12a1376a15c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\638a6c2a0b703dcec49df6817666db81\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\638a6c2a0b703dcec49df6817666db81\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\d8f81e85253cb038fb4a1fd6129aa97c\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\d8f81e85253cb038fb4a1fd6129aa97c\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b62673ece755617109cc25e870d08a69\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Tarak\.gradle\caches\transforms-3\b62673ece755617109cc25e870d08a69\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\84cebe6fe92a1ecef2da6c858369baeb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\84cebe6fe92a1ecef2da6c858369baeb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\0b59976ca61fec2f91d38b2cc7eae02d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\0b59976ca61fec2f91d38b2cc7eae02d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\19b19b0f800f2866e3363c111884b8de\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\19b19b0f800f2866e3363c111884b8de\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\f9ca61b601f4ff5efbd60ecae6f07e87\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\f9ca61b601f4ff5efbd60ecae6f07e87\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\e70a6d5c4b91ac662d041a7d51a890e4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\e70a6d5c4b91ac662d041a7d51a890e4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\136796e336dcf8656484a61de8bdbd18\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Tarak\.gradle\caches\transforms-3\136796e336dcf8656484a61de8bdbd18\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tarak\Desktop\Re-Structure\DevotionTube\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\fb08bf9200be5fbb13e0d0b74e7f640f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\fb08bf9200be5fbb13e0d0b74e7f640f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:34:13-86
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:41:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:39:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:43:9-47:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:46:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:47:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:48:9-52:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:51:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:52:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:49:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:56:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:54:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:58:9-62:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:61:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:62:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:59:13-83
+activity#com.firebase.ui.auth.ui.email.WelcomeBackEmailLinkPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:63:9-67:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:66:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:67:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:64:13-84
+activity#com.firebase.ui.auth.ui.email.EmailLinkCatcherActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:68:9-73:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:71:13-29
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:73:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:72:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:69:13-82
+activity#com.firebase.ui.auth.ui.email.EmailLinkErrorRecoveryActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:74:9-78:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:77:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:75:13-88
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:79:9-82:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:82:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:80:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:83:9-87:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:86:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:87:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:85:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:84:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:88:9-100:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:90:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:89:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:92:13-99:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:93:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:95:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:95:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:96:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:98:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:98:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:102:9-106:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:104:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:105:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:106:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\949fb375649a9a19dfdd7483678a702b\transformed\jetified-firebase-ui-auth-7.2.0\AndroidManifest.xml:103:13-79
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\54d25a3df6a0a5002dc527a9506b0373\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:65:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Tarak\.gradle\caches\transforms-3\739589bbf661ef8328e7d8dd0d45689e\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\Tarak\.gradle\caches\transforms-3\cdefa93c8d729cebc216906a888162fa\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:20:17-111
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tarak\.gradle\caches\transforms-3\a34239de4c82a10ebabc6e4daf4e55a2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\Tarak\.gradle\caches\transforms-3\fc5b2171d4744b2dfce40cdc6ae9c8eb\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tarak\.gradle\caches\transforms-3\d35711a3781da8722611eb6fc7d48e23\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\9e866fc80d8deda374a22b6b55dc529c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tarak\.gradle\caches\transforms-3\9e866fc80d8deda374a22b6b55dc529c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tarak\.gradle\caches\transforms-3\105771befce19357fa96cb4c40462fcb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Tarak\.gradle\caches\transforms-3\f03480cdb90d64b78e50b7e3b5bbc584\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

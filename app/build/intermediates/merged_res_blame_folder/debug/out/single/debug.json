@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/layout_activity_login.xml.flat",
+        "source": "com.example.internship.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_greenbg.xml.flat",
+        "source": "com.example.internship.app-main-43:/drawable/greenbg.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_whatsaopp.png.flat",
+        "source": "com.example.internship.app-main-43:/drawable/whatsaopp.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/layout_activity_home.xml.flat",
+        "source": "com.example.internship.app-main-43:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_channelbg.xml.flat",
+        "source": "com.example.internship.app-main-43:/drawable/channelbg.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_icons8_google_40.png.flat",
+        "source": "com.example.internship.app-main-43:/drawable/icons8_google_40.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.internship.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.internship.app-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_google.png.flat",
+        "source": "com.example.internship.app-main-43:/drawable/google.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.example.internship.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_icons8_whatsapp_32.png.flat",
+        "source": "com.example.internship.app-main-43:/drawable/icons8_whatsapp_32.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.internship.app-debug-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_livebg.xml.flat",
+        "source": "com.example.internship.app-main-43:/drawable/livebg.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/layout_activity_youtube_player.xml.flat",
+        "source": "com.example.internship.app-main-43:/layout/activity_youtube_player.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_whatsapp_48.png.flat",
+        "source": "com.example.internship.app-main-43:/drawable/whatsapp_48.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/layout_activity_splash.xml.flat",
+        "source": "com.example.internship.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_youtube.png.flat",
+        "source": "com.example.internship.app-main-43:/drawable/youtube.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/layout_youtubelist.xml.flat",
+        "source": "com.example.internship.app-main-43:/layout/youtubelist.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/layout_activity_youtube.xml.flat",
+        "source": "com.example.internship.app-main-43:/layout/activity_youtube.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_refbg.xml.flat",
+        "source": "com.example.internship.app-main-43:/drawable/refbg.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.internship.app-debug-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_background.xml.flat",
+        "source": "com.example.internship.app-main-43:/drawable/background.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/layout_grid_item.xml.flat",
+        "source": "com.example.internship.app-main-43:/layout/grid_item.xml"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_icons8_google_48.png.flat",
+        "source": "com.example.internship.app-main-43:/drawable/icons8_google_48.png"
+    },
+    {
+        "merged": "com.example.internship.app-merged_res-41:/drawable_videobg.xml.flat",
+        "source": "com.example.internship.app-main-43:/drawable/videobg.xml"
+    }
+]
